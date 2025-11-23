@@ -1,0 +1,1 @@
+Hello welcome to a project that is going to be styled using css.Don't worry its my first time doing a css project.If there is some part to modify kindly tell me otherwise happy coding.
